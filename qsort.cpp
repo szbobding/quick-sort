@@ -1,3 +1,12 @@
+/************************************************
+ *
+ * file  : qsort.cpp
+ * author: bobding
+ * date  : 2014-10-21
+ * detail: create
+ *
+************************************************/
+
 #include <stdio.h>
 #include <algorithm>
 
